@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="739" measuredH="584" mockupW="624" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="945" measuredH="584" mockupW="830" mockupH="573">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="457" y="11" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -88,6 +88,18 @@
     <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="485" y="365" w="226" h="74" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Arrow" x="686" y="264" w="150" h="139" measuredW="150" measuredH="100" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::StickyNote" x="836" y="184" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>menu%20para%20loguin</text>
       </controlProperties>
     </control>
   </controls>
