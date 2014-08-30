@@ -1,5 +1,6 @@
 Software necesario
-  * FreeMind http://freemind.sourceforge.net/wiki/index.php/Download
+  * FreeMind (mapa mental) http://freemind.sourceforge.net/wiki/index.php/Download
+  * Balsamiq (bosquejos visual sitio) http://balsamiq.com/download/
 
 Arica.cl
 ========
