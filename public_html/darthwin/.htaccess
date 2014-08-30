@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^darthwin\.arica\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.darthwin\.arica\.cl$
+RewriteRule ^/?$ "http\:\/\/tecnolabs\.blogspot\.com\/" [R=301,L]
+

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOptions" value="name:licencia_opc;datatype:string" />
+	<infoitem key="UD_rsUsuarios" value="name:Id_Usuario;datatype:int,name:IdNivel_Usu;datatype:int,name:IdPersona_Usu;datatype:int,name:Usern_Usu;datatype:string,name:Passw_Usu;datatype:string,name:Estado_Usu;datatype:int,name:Id_Nivel;datatype:int,name:Nombre_Niv;datatype:string,name:Id_Persona;datatype:int,name:Nombres_Per;datatype:string,name:Paterno_Per;datatype:string,name:Materno_Per;datatype:string,name:IdPais_Per;datatype:int,name:IdDocumento_Per;datatype:int,name:NumeroDoc_Per;datatype:string,name:Ciudad_Per;datatype:string,name:Direccion_Per;datatype:string,name:Telefono_Per;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOptions" value="name:Licencia_Opc;datatype:string" />
+	<infoitem key="UD_rsTipo" value="name:Id_Tipo;datatype:int,name:Nombre_Tip;datatype:string" />
+</info>

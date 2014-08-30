@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsDocumento" value="name:Id_Documentos;datatype:int,name:Descripcion_Doc;datatype:string" />
+</info>

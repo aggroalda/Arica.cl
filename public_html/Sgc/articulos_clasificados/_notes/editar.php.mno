@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOptions" value="name:Licencia_Opc;datatype:string" />
+	<infoitem key="UD_rsNoticias" value="name:Id_Noticia;datatype:int,name:IdTipo_Not;datatype:int,name:Titulo_Not;datatype:string,name:Desarrollo_Not;datatype:blob,name:Fecha_Not;datatype:string,name:Foto_Not;datatype:string,name:Fotodes_Not;datatype:string,name:Estado_Not;datatype:int" />
+	<infoitem key="UD_rsTipo" value="name:Id_Tipo;datatype:int,name:Nombre_Tip;datatype:string" />
+	<infoitem key="UD_rsTipoNot" value="name:Id_Noticia;datatype:int,name:IdTipo_Not;datatype:int,name:Titulo_Not;datatype:string,name:Desarrollo_Not;datatype:blob,name:Fecha_Not;datatype:string,name:Foto_Not;datatype:string,name:Fotodes_Not;datatype:string,name:Estado_Not;datatype:int,name:Id_Tipo;datatype:int,name:Nombre_Tip;datatype:string" />
+</info>

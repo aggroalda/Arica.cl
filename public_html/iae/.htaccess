@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^iae\.arica\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.iae\.arica\.cl$
+RewriteRule ^/?$ "http\:\/\/archivos3\.movistar\.cl\/darwinalarcon\/IAE_UTC" [R=301,L]
+

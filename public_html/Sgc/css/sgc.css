@@ -1,0 +1,92 @@
+@charset "utf-8";
+body,form {	margin-left: 0px;	margin-top: 0px;margin-right: 0px;	margin-bottom: 0px;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 12px;color: #666666;}
+
+.tabla tr.odd	{background:#E9E9E9;}
+.tabla tr.highlight	{background:#99CCFF; }
+.tabla tr.selected	{background:#FFCC66;
+}
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
+
+.fuente {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;color: #333333;}
+.fuente10 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px;color: #333333;}
+
+.sgc {font-family: "Arial Black";font-size: 26px;color: #FFFFFF;}
+.blanco12 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 12px;font-weight: bold;color: #FFFFFF;}
+
+a:link {text-decoration: none;}
+a:visited {	text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: none;}
+.titles {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;color: #990000;}
+.bordes {border-right-width: 1px;border-left-width: 1px;border-top-style: none;border-right-style: solid;border-bottom-style: none;border-left-style: solid;border-right-color: #003366;	border-left-color: #003366;}
+.bordes2 {	border: 1px solid #003366;}
+
+#dhtmltooltip{position: absolute;left: -300px;width: 150px;border: 1px solid black;padding: 2px;background-color: ightyellow;visibility: hidden;z-index: 100;filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);}
+
+#dhtmlpointer{position:absolute;left: -300px;z-index: 101;visibility: hidden;}
+
+#form {	padding:20px;width:auto;margin:auto;font-size:12px;font-weight:bold;}
+#form ol {list-style:none;}
+#form ol li{padding-bottom:10px;}
+#form label{width:150px;float:left;	text-align:right;padding:5px;}
+.linksRojo {color: #900;}
+.azul12 {color: #036;}
+input.error, select.error, textarea.error {border: 1px solid #CC0000; float: left; margin-left: 0px;font-size:12px;	font-family:Verdana}
+form label.error, label.error{color:#C00;padding:0 2px 0 5px; width:auto; float:left; text-align:left;font-size:12px }
+
+.required {color:#C00; font-weight:bold;}
+.mano { cursor:default; cursor:pointer; }
+.boxrojo { background:#FCC; padding:3px; border:#C00 solid 1px; width:auto; }
+.boxverde { background:#CFC; padding:3px; border:#090 solid 1px; margin-left:3px; width:auto;}
+.errorbox { background:#FCC; padding:0 5px; border:#F00 solid 1px; color:#F00; font-size:11px; float:left; width:auto; margin-left:3px; }
+.verdebox { background:#CFC; padding:0 2px; border:#090 solid 1px; color:#090; font-size:11px; float:left; width:auto; margin-left:3px; }
+.curved { -moz-border-radius: 10px; -webkit-border-radius: 10px; behavior:url(../../0_SOURCE/SGC_INTERNET/css/border-radius.htc); border-radius: 10px; }
+.boxrojo { background:#FFCCCC; margin-top:1px; padding:2px 3px 3px 5px; border:#CC0000 solid 1px; color:#CC0000; }
+.boxverde { background:#CCFFCC; margin-top:1px; padding:2px 3px 3px 5px; border:#009900 solid 1px; color:#009900; }
+.boxnaraja { background:#FFDD99; margin-top:1px; padding:2px 3px 3px 5px; border:#FF0000 solid 1px; color:#FF0000; }
+.boxplomo { background:#CCCCCC; margin-top:1px; padding:2px 3px 3px 5px; border:#666666 solid 1px; color:#666666; }
+.left { float:left; }
+#dvResultado, #divDNI { float:left; }
+
+#subrayado_no{text-decoration:none}
+
+#subrayado_cat_not{color:#333}
+a#guia_titulos{color:#990000; font-size:12px;}
+#raqueo{color:#990000; font-size:12px;}
+
+#cdo_top_izq{background:url(../img/cdo_top_izq.jpg)}
+
+#cdo_top_fnd{background:url(../img/cdo_top_fnd.jpg); background-repeat:repeat-x;}
+
+#cdo_top_der{background:url(../img/cdo_top_der.jpg);}
+
+#cdo_dwn_izq{ background:url(../img/cdo_dwn_izq.jpg);}
+
+#cdo_dwn_fnd{background:url(../img/cdo_dwn_fnd.jpg);}
+
+#cdo_dwn_der{background:url(../img/cdo_dwn_der.jpg);}
+
+#cdo_der_fnd{background:url(../img/cdo_der_fnd.jpg);}
+
+#ancho_p{ width:50%; text-align:justify; font-size:12px;}
+
+#ancho_p2{ width:50%; text-align:justify; margin-left:50px;  font-size:12px;}
+
+#list_deco{	list-style-type:upper-roman;}
+
+#parrafo_banners{color: #990000; font-family:Verdana, Geneva, sans-serif; font-size:12px; text-align:center;}
+#ul_banners{ text-align:justify; margin-left:228px; color: #990000; font-family:Verdana, Geneva, sans-serif; font-size:12px;}
+
+.input_mensaje{
+	width:350px;
+}
+
+.text_area_mensaje{
+	width:350px;
+	height:200px;
+}
+
+#p_descripcion_ver{width:50%;}
+#img_padding_ver{ padding-left:25px;}

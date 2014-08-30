@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOptions" value="name:licencia_opc;datatype:string" />
+	<infoitem key="UD_rsCategoria" value="name:Id_Categoria;datatype:int,name:Nombre_Cat;datatype:string,name:Orden_Cat;datatype:int,name:Estado_Cat;datatype:int" />
+	<infoitem key="UD_rsSubcategoria" value="name:Id_Subcategoria;datatype:int,name:IdCategoria_Sub;datatype:int,name:Nombre_Sub;datatype:string,name:Estado_Sub;datatype:int" />
+</info>

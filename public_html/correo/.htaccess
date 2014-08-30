@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^correo\.arica\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.correo\.arica\.cl$
+RewriteRule ^/?$ "https\:\/\/www\.google\.com\/a\/arica\.cl\/" [R=301,L]
+

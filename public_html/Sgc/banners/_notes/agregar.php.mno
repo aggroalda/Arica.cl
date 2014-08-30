@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOptions" value="name:licencia_opc;datatype:string" />
+	<infoitem key="UD_rsUbicacion" value="name:Id_Banner;datatype:int,name:Titulo_Ban;datatype:string,name:Ubicacion_Ban;datatype:int,name:Archivo_Ban;datatype:string,name:Estado_Ban;datatype:int" />
+</info>

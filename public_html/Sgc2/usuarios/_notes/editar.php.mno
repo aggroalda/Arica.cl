@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsNivel" value="name:Id_Nivel;datatype:int,name:Nombre_Niv;datatype:string" />
+	<infoitem key="UD_rsPais" value="name:Id_Pais;datatype:int,name:Nombre_Pai;datatype:string" />
+	<infoitem key="UD_rsDocumento" value="name:Id_Documentos;datatype:int,name:Descripcion_Doc;datatype:string" />
+	<infoitem key="UD_rsHabitacion" value="name:Id_Habitacion;datatype:int,name:Nombre_Hab;datatype:string,name:Foto_Hab;datatype:string,name:Descripcion_Hab;datatype:blob,name:Precio_Hab;datatype:string,name:Estado_Hab;datatype:int" />
+	<infoitem key="UD_rsTipo" value="name:Id_Tipo;datatype:int,name:Nombre_Tip;datatype:string" />
+</info>

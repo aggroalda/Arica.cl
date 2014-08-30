@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsOptions" value="name:licencia_opc;datatype:string" />
+	<infoitem key="UD_rsSubCategoria" value="name:Id_Subcategoria;datatype:int,name:IdCategoria_Sub;datatype:int,name:Nombre_Sub;datatype:string,name:Estado_Sub;datatype:int" />
+	<infoitem key="UD_rsProductos" value="name:Id_Productos;datatype:int,name:IdSubcategoria_Pro;datatype:int,name:Nombre_Pro;datatype:string,name:Largo_Pro;datatype:string,name:Ancho_Pro;datatype:string,name:Alto_Pro;datatype:string,name:Descripcion_Pro;datatype:blob,name:Precio_Pro;datatype:real,name:Oferta_Pro;datatype:int,name:Portada_Pro;datatype:int,name:Estado_Pro;datatype:int" />
+	<infoitem key="UD_rsCategoriaProducto" value="name:Id_Productos;datatype:int,name:IdCategoria_Pro;datatype:int,name:Nombre_Pro;datatype:string,name:Largo_Pro;datatype:string,name:Ancho_Pro;datatype:string,name:Alto_Pro;datatype:string,name:Descripcion_Pro;datatype:blob,name:Precio_Pro;datatype:real,name:Oferta_Pro;datatype:int,name:Portada_Pro;datatype:int,name:Estado_Pro;datatype:int,name:Id_Subcategoria;datatype:int,name:IdCategoria_Sub;datatype:int,name:Nombre_Sub;datatype:string,name:Estado_Sub;datatype:int,name:Id_Categoria;datatype:int,name:Nombre_Cat;datatype:string,name:Orden_Cat;datatype:int,name:Estado_Cat;datatype:int" />
+</info>

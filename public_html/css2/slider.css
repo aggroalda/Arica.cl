@@ -1,0 +1,23 @@
+img {border: 0;}
+.container {width: 700px;}
+
+
+/*--Main Container--*/
+.main_view { float: left;position: relative;}
+/*--Window/Masking Styles--*/
+.window {height:255px;width: 700px;overflow: hidden;position: relative;}
+
+.image_reel {    position: absolute;top: 0; left: 0;}
+.image_reel img {float: left;}
+
+/*--Paging Styles--*/
+.paging {position: absolute;bottom: 11px;left: 5px; top: 225px;width: 90px;height:20px;z-index: 100; text-align: center;
+	line-height: 20px;background:#000000; display: none;font-size: 12px;font-weight: bold;opacity:0.7;filter:alpha(opacity=70);}
+
+.paging a {	padding: 5px;color:#FF9900; text-decoration:none;}
+
+.paging a.active {background:#FF9900; color:#3D2630;}
+
+.paging a:hover {color:#4C212F; text-decoration:none;}
+
+.desc {display: none;position: absolute;top: 0;left: 0;z-index: 101;color: #fff;font-size: 17px;padding: 8px;background-color:#000;width: 768px;font-family: Arial, Helvetica, sans-serif;opacity:0.7;filter:alpha(opacity=70);}

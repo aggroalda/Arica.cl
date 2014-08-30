@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^encuestautci\.arica\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.encuestautci\.arica\.cl$
+RewriteRule ^/?$ "http\:\/\/comunidad\.inacap\.cl\/_forms\/InacapLoginRes\/comLogin\.aspx\?ReturnUrl\=\%2fsitios\%2facreditacion\%2fai\%2faiutci2013\%2fEncuestas_UTCI2013\%2f_layouts\%2fAuthenticate\.aspx\%3fSource\%3d\%252Fsitios\%252Facreditacion\%252Fai\%252Faiutci2013\%252FEncuestas\%255FUTCI2013\%252FBTCApweb\%252Falumnos\%252Easpx\&Source\=\%2Fsitios\%2Facreditacion\%2Fai\%2Faiutci2013\%2FEncuestas_UTCI2013\%2FBTCApweb\%2Falumnos\%2Easpx" [R=301,L]
+

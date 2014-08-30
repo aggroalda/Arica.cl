@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsNivel" value="name:Id_Nivel;datatype:int,name:Nombre_Niv;datatype:string" />
+	<infoitem key="UD_rsPais" value="name:Id_Pais;datatype:int,name:Nombre_Pai;datatype:string" />
+	<infoitem key="UD_rsDocumento" value="name:Id_Documentos;datatype:int,name:Descripcion_Doc;datatype:string" />
+</info>

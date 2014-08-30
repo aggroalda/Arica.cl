@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCategoria" value="name:Id_Rubro;datatype:int,name:Id_Empresa_Rubro;datatype:int,name:Nombre_Rubro;datatype:string,name:Orden_Rubro;datatype:int" />
+</info>

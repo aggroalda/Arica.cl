@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBanners" value="name:Id_Banner;datatype:int,name:Titulo_Ban;datatype:string,name:Ubicacion_Ban;datatype:int,name:Archivo_Ban;datatype:string,name:Estado_Ban;datatype:int,name:Url_Ban;datatype:string" />
+</info>
