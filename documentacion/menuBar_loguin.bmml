@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1071" measuredH="792" mockupW="1014" mockupH="732">
+  <controls>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::StickyNote" x="57" y="412" w="270" h="128" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LOGUIN%20PARA%20TWITTER</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Arrow" x="327" y="492" w="111" h="100" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Arrow" x="729" y="488" w="123" h="103" measuredW="150" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::StickyNote" x="852" y="415" w="219" h="123" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>LOGUIN%20POR%20FACEBOOK</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Accordion" x="438" y="257" w="291" h="319" measuredW="150" measuredH="213" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C%2CmenuBar_loguin%26bm%3BmenuBar_loguin.bmml%26bm%3BmenuBar_loguin.bmml%26bm%3BmenuBar_loguin.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22381%2C459%2C672%2C489%22%20href%3D%22menuBar_loguin.bmml%22%20alt%3D%22menuBar_loguin%22%20id%3D%2231%22/%3E</map>
+        <text>Noticias%0ALaboral%0A-%20Ofertas%0A-%20Sube%20tu%20c.v.%0APerfil%0ALogin%0A%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="686" y="617" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>MenuBar_mobil%26bm%3BMenuBar_mobil.bmml%26bm%3BMenuBar_mobil.bmml%26bm%3BMenuBar_mobil.bmml</href>
+        <icon>ListIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22629%2C557%2C661%2C589%22%20href%3D%22MenuBar_mobil.bmml%22%20alt%3D%22MenuBar_mobil%22%20id%3D%2234%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::iPhone" x="367" y="60" w="437" h="732" measuredW="282" measuredH="573" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="438" y="184" w="291" h="503" measuredW="450" measuredH="400" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//arica.cl</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="438" y="607" w="291" h="53" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="438" y="576" w="291" h="31" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="438" y="577" w="145" h="31" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>7775663</color>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Canvas" x="583" y="576" w="146" h="31" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>545684</color>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::SubTitle" x="594" y="579" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FACEBOOK</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::SubTitle" x="453" y="580" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>TWITTER</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TextInput" x="60" y="295" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="438" y="549" w="127" h="-1" measuredW="35" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>13421772</color>
+        <size>10</size>
+        <text>user</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="602" y="549" w="127" h="-1" measuredW="37" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>13421772</color>
+        <size>10</size>
+        <text>pass</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
